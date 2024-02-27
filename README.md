@@ -17,13 +17,13 @@
         <li>Results Visualization</li>
     </ol>
     <h2>Technologies Used:</h2>
-    <ul>
-        <li><img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" alt="Python" width="20" height="20"> Python</li>
-        <li><img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="Scikit-learn" width="20" height="20"> Scikit-learn</li>
-        <li><img src="https://image.flaticon.com/icons/svg/732/732212.svg" alt="Pandas" width="20" height="20"> Pandas</li>
-        <li><img src="https://image.flaticon.com/icons/svg/732/732224.svg" alt="Matplotlib" width="20" height="20"> Matplotlib</li>
+   <ul>
+        <li><img src="https://image.flaticon.com/icons/svg/919/919852.svg" alt="Python" width="20" height="20"> Python</li>
+        <li><img src="https://image.flaticon.com/icons/svg/732/732233.svg" alt="Scikit-learn" width="20" height="20"> Scikit-learn</li>
+        <li><img src="https://image.flaticon.com/icons/svg/919/919842.svg" alt="Pandas" width="20" height="20"> Pandas</li>
+        <li><img src="https://image.flaticon.com/icons/svg/732/732212.svg" alt="Matplotlib" width="20" height="20"> Matplotlib</li>
         <li><img src="https://image.flaticon.com/icons/svg/732/732190.svg" alt="Seaborn" width="20" height="20"> Seaborn</li>
-        <li><img src="https://image.flaticon.com/icons/svg/732/732223.svg" alt="HTML" width="20" height="20"> HTML</li>
+        <li><img src="https://image.flaticon.com/icons/svg/732/732212.svg" alt="HTML" width="20" height="20"> HTML</li>
     </ul>
     <h2>Conclusion:</h2>
     <p>The project demonstrates the process of building a machine learning model for iris flower classification, starting from data preprocessing to model evaluation. The trained model achieves a certain level of accuracy in predicting iris species, which can be further improved by tuning hyperparameters or trying different algorithms.</p>
